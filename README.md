@@ -8,7 +8,7 @@ During my experience learning C programming, I gained a deep understanding of fu
 ## Syllabus :
 - Introduction to C Programming
 - Data Types and Variables
-- Control Structures (if-else, loops)
+- Control Structures (if-else, loops) 
 - Functions and Modular Programming
 - Arrays and Strings
 - Pointers and Memory Management
