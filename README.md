@@ -6,7 +6,7 @@ During my experience learning C programming, I gained a deep understanding of fu
 ![cprogram](https://github.com/user-attachments/assets/f1bbcbff-e7de-4703-9304-e49ed25f1072)
 
 ## Syllabus : 
-- Introduction to C Programming
+- Introduction to C Programming 
 - Data Types and Variables
 - Control Structures (if-else, loops) 
 - Functions and Modular Programming
